@@ -20,4 +20,6 @@ yay -S yt-dlp python-gobject mpv python
 
 ```
 
-## so baggy 
+
+
+help me
