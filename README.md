@@ -1,4 +1,4 @@
-### yoyo
+# yoyo
 
 Simple youtube music player with GTK graphical interface
 
@@ -12,7 +12,7 @@ Simple youtube music player with GTK graphical interface
 ## Installation
 
 
-# On Arch:
+### On Arch:
 
 ```bash
 
@@ -20,4 +20,4 @@ yay -S yt-dlp python-gobject mpv python
 
 ```
 
-# so baggy 
+## so baggy 
