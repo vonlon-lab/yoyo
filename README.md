@@ -20,6 +20,11 @@ yay -S yt-dlp python-gobject mpv python
 
 ```
 
+### Runing
+```bash
 
+git clone https://github.com/vonlon-lab/yoyo/
+cd yoyo
+python main.py
 
-help me
+```
